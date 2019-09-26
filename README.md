@@ -1,5 +1,5 @@
 # ADBDg6
 
-## Diego Vázquez Campos
-## Pablo Bethencourt Díaz
-## Michael Brian Santana Mon
+Diego Vázquez Campos
+Pablo Bethencourt Díaz
+Michael Brian Santana Mon
