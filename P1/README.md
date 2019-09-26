@@ -1,1 +1,1 @@
-# P1: Presentación Supuesto Proyecto de Bases de Datos.
+# P1: Presentación Supuesto Proyecto de BDD.
