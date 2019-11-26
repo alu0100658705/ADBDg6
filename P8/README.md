@@ -1,3 +1,10 @@
+Miembros del grupo:
+```
+- Diego Vázquez Campos
+- Pablo Bethencourt Díaz
+- Michael Brian Santana Mon
+```
+
 # Pruebas de las consultas realizadas
 
 ### Consulta 1: Seleecionar todos los campos de la tabla Familia
