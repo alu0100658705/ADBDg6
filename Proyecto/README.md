@@ -26,3 +26,6 @@ https://docs.google.com/document/d/1KM3Cml8bG90XL9eL1g55_c72CXZQje8lvsvNwOccGQo/
 
 ### Carga de datos
 https://docs.google.com/document/d/1R0GDEjTJSTNHO1H3Jj45dwJXJ7SRnn5mOjcoaIRJXo8/edit?usp=sharing
+
+### Informe final
+https://docs.google.com/document/d/1CHQXTFSciSxBprC_zL6fZv1ZzMQyjevkSn_UU7tklOg/edit?usp=sharing
